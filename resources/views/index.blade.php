@@ -1,5 +1,5 @@
 @extends('layout.app')
-@section('title' ,  The list of tasks )
+@section('title' ,  'The list of tasks' )
 
 @section('content')
     {{-- @if (count($tasks)) --}}
